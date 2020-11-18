@@ -1,0 +1,7 @@
+<!-- 商品详细信息 -->
+<view catchtap='toCategoryTap'>
+  <text style="color:#f00;">❀</text>
+  <text>分类</text>
+  <text>{{categoryTitle}}</text>
+   <image src='{{categoryImg}}'></image>
+</view>
